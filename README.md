@@ -1,7 +1,7 @@
  
 # Olá, eu sou Gabrielly 
 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML, CSS e JavaScript | Me preparando para o mercado de tecnologia**
-  <p style="color: #FF5733;">Esta frase será azul.</p>
+<p style="color: #FF5733;">Esta frase será azul.</p>
 ## Sobre mim   
 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   
 Sempre aprendendo novas tecnologias e boas práticas de programação   
