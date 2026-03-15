@@ -1,9 +1,8 @@
  
 # Olá, eu sou Gabrielly 
 .minha-frase {**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML, CSS e JavaScript | Me preparando para o mercado de tecnologia**
-
     color: green;
-}
+    }
 ## Sobre mim   
 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   
 Sempre aprendendo novas tecnologias e boas práticas de programação   
