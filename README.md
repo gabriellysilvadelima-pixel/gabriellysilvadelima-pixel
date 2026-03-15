@@ -1,7 +1,7 @@
  
 # Olá, eu sou Gabrielly 
 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML, CSS e JavaScript | Me preparando para o mercado de tecnologia**
-<p style="color: #FF5733;">Esta frase será azul.</p>
+
 ## Sobre mim   
 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   
 Sempre aprendendo novas tecnologias e boas práticas de programação   
@@ -16,5 +16,5 @@ Interesse especial em **projetos web** e **desenvolvimento Full Stack**
   <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-## Como me encontrar 
+## **Como me encontrar**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellysilvadelima005@gmail.com)
